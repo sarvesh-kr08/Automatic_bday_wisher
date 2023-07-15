@@ -1,0 +1,8 @@
+step1 : Before running the program please put your own email address in my_email and put your birthday list in birthdays.csv
+step2 : Hit the run as your hit run you'll get an unauthorized error 
+step3 : Now you have the settings of your email account turn on the 2fa verification
+step4 : As you turn on 2fa verification you get an option 'App' click on it select others in types
+step5 : Generate password, password appears copy it
+step6 : Come back to you code editor erase the password in my password paste the password that you copied earlier
+step7 : Now if you hit the run it will send email to the birthday person if there is the birthday person 
+step8 : You can upload the programe on python anywhere so that it run everyday check if someone have birthday
